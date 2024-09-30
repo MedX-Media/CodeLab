@@ -170,8 +170,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 For questions, suggestions, or collaboration proposals, feel free to:
 
 - **Open an Issue**: Use the GitHub issue tracker for any bugs or feature requests.
-- **Email Us**: [contact@medxai.com](mailto:contact@medxai.com)
-- **Join Our Community**: Connect with us on [LinkedIn](#) or [Twitter](#).
+- **Email Us**: [MedXMedia.net@gmail.com](mailto:medxmedia.net@gmail.com)
+- **Join Our Community**: Connect with us on [LinkedIn](https://www.linkedin.com/company/medxstartup), [Twitter](https://x.com/medxmedia_net) or [Telegram](https://t.me/@MedX_admin).
 
 ---
 
