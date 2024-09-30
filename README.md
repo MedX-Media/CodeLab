@@ -155,13 +155,13 @@ We welcome contributions from the community! To contribute:
 
    Go to the original repository and open a pull request from your new branch.
 
-**Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines, coding standards, and the code of conduct.**
+**Please read our [CONTRIBUTING.md](https://github.com/MedX-Media/MedX/blob/main/CONTRIBUTING.md) for detailed guidelines, coding standards, and the code of conduct.**
 
 ---
 
 ## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/MedX-Media/MedX?tab=GPL-3.0-1-ov-file#readme) file for details.
 
 ---
 
