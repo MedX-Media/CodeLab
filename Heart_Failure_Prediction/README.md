@@ -13,7 +13,7 @@ The dataset used in this project is the **Heart Failure Clinical Records Dataset
 - 12 clinical features such as age, ejection fraction, and serum creatinine.
 - A target variable indicating if the patient experienced heart failure.
 
-For more information on the dataset, refer to [Kaggle]([https://www.kaggle.com/code/benyamingheiji/eda-data-analysis-7-machine-learning-models](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)).
+For more information on the dataset, refer to [Kaggle](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data).
 
 ## Files in the Repository
 - **`eda-data-analysis-7-machine-learning-models.ipynb`**: The main Jupyter Notebook containing analysis, visualization, and model building.
